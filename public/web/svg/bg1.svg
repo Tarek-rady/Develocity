@@ -1,0 +1,844 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="542" height="133" viewBox="0 0 542 133">
+
+<style>
+
+.g1 {
+  transform-origin: center;
+  transform-box:fill-box ;
+  animation-name: tranfX;
+  animation-fill-mode: both;
+	animation-duration: 1.5s;
+  
+  animation-iteration-count: infinite ease-in-out;
+
+}
+
+
+
+.g2{
+
+  transform-origin: center;
+  transform-box:fill-box ;
+  animation-delay: .2s;
+  animation-name: tranfX;
+  animation-fill-mode: both;
+	animation-duration: 1.5s;
+  	animation-iteration-count: infinite ease-in-out;
+
+}
+
+.g3{
+  transform-origin: center;
+  transform-box:fill-box ;
+  animation-delay: .4s;
+  animation-name: tranfX;
+  animation-fill-mode: both;
+	animation-duration: 1.5s;
+	animation-iteration-count: infinite ease-in-out;
+}
+
+.g4{
+
+  transform-origin: center;
+  transform-box:fill-box ;
+  animation-delay: .6s;
+  animation-name: tranfX;
+  animation-fill-mode: both;
+	animation-duration: 1.5s;
+	animation-iteration-count: infinite ease-in-out;
+}
+
+.g5{
+  animation-delay: .8s;
+  
+    transform-origin: center;
+  transform-box:fill-box ;
+  animation-name: tranfX;
+  animation-fill-mode: both;
+  animation-duration: 1.5s;
+}
+  .g6{
+
+
+    transform-origin: center;
+  transform-box:fill-box ; 
+   animation-delay: 1s;
+  animation-name: tranfX;
+  animation-fill-mode: both;
+  animation-duration: 1.5s;
+  animation-iteration-count: infinite ease-in-out;
+}
+
+
+
+
+.g7{
+
+    transform-origin: center;
+  transform-box:fill-box ; 
+   animation-delay: 1.2s;
+  animation-name: tranfX;
+  animation-fill-mode: both;
+  animation-duration: 1.5s;
+  animation-iteration-count: infinite ease-in-out;
+}
+
+
+
+
+.g8{
+
+    transform-origin: center;
+  transform-box:fill-box ; 
+   animation-delay: 1.4s;
+  animation-name: tranfX;
+  animation-fill-mode: both;
+  animation-duration: 1.5s;
+  animation-iteration-count: infinite ease-in-out;
+}
+
+
+
+
+
+.g9{
+
+    transform-origin: center;
+  transform-box:fill-box ; 
+   animation-delay: 1.6s;
+  animation-name: tranfX;
+  animation-fill-mode: both;
+  animation-duration: 1.5s;
+  animation-iteration-count: infinite ease-in-out;
+}
+
+
+
+
+
+.g10{
+
+    transform-origin: center;
+  transform-box:fill-box ; 
+   animation-delay: 1.8s;
+  animation-name: tranfX;
+  animation-fill-mode: both;
+  animation-duration: 1.5s;
+  animation-iteration-count: infinite ease-in-out;
+}
+
+
+.g11{
+
+    transform-origin: center;
+  transform-box:fill-box ; 
+   animation-delay: 2s;
+  animation-name: tranfX;
+  animation-fill-mode: both;
+  animation-duration: 1.5s;
+  animation-iteration-count: infinite ease-in-out;
+}
+
+
+.g11{
+
+    transform-origin: center;
+  transform-box:fill-box ; 
+   animation-delay: 2.2s;
+  animation-name: tranfX;
+  animation-fill-mode: both;
+  animation-duration: 1.5s;
+  animation-iteration-count: infinite ease-in-out;
+}
+
+
+
+.g12{
+
+    transform-origin: center;
+  transform-box:fill-box ; 
+   animation-delay: 2.4s;
+  animation-name: tranfX;
+  animation-fill-mode: both;
+  animation-duration: 1.5s;
+  animation-iteration-count: infinite ease-in-out;
+}
+
+
+
+.g13{
+
+    transform-origin: center;
+  transform-box:fill-box ; 
+   animation-delay: 2.6s;
+  animation-name: tranfX;
+  animation-fill-mode: both;
+  animation-duration: 1.5s;
+  animation-iteration-count: infinite ease-in-out;
+}
+
+
+
+.g14{
+
+    transform-origin: center;
+  transform-box:fill-box ; 
+   animation-delay: 2.8s;
+  animation-name: tranfX;
+  animation-fill-mode: both;
+  animation-duration: 1.5s;
+  animation-iteration-count: infinite ease-in-out;
+}
+
+
+
+.g15{
+
+    transform-origin: center;
+  transform-box:fill-box ; 
+   animation-delay: 3s;
+  animation-name: tranfX;
+  animation-fill-mode: both;
+  animation-duration: 1.5s;
+  animation-iteration-count: infinite ease-in-out;
+}
+
+
+
+.g16{
+
+    transform-origin: center;
+  transform-box:fill-box ; 
+   animation-delay: 3.2s;
+  animation-name: tranfX;
+  animation-fill-mode: both;
+  animation-duration: 1.5s;
+  animation-iteration-count: infinite ease-in-out;
+}
+
+
+
+.g17{
+
+    transform-origin: center;
+  transform-box:fill-box ; 
+   animation-delay: 3.4s;
+  animation-name: tranfX;
+  animation-fill-mode: both;
+  animation-duration: 1.5s;
+  animation-iteration-count: infinite ease-in-out;
+}
+
+
+
+.g18{
+
+    transform-origin: center;
+  transform-box:fill-box ; 
+   animation-delay: 3.6s;
+  animation-name: tranfX;
+  animation-fill-mode: both;
+  animation-duration: 1.5s;
+  animation-iteration-count: infinite ease-in-out;
+}
+
+
+
+.g19{
+
+    transform-origin: center;
+  transform-box:fill-box ; 
+   animation-delay: 3.8s;
+  animation-name: tranfX;
+  animation-fill-mode: both;
+  animation-duration: 1.5s;
+  animation-iteration-count: infinite ease-in-out;
+}
+
+
+
+.g20{
+
+    transform-origin: center;
+  transform-box:fill-box ; 
+   animation-delay: 4s;
+  animation-name: tranfX;
+  animation-fill-mode: both;
+  animation-duration: 1.5s;
+  animation-iteration-count: infinite ease-in-out;
+}
+
+
+
+.g21{
+
+    transform-origin: center;
+  transform-box:fill-box ; 
+   animation-delay: 4.2s;
+  animation-name: tranfX;
+  animation-fill-mode: both;
+  animation-duration: 1.5s;
+  animation-iteration-count: infinite ease-in-out;
+}
+
+
+
+.g22{
+
+    transform-origin: center;
+  transform-box:fill-box ; 
+   animation-delay: 4.4s;
+  animation-name: tranfX;
+  animation-fill-mode: both;
+  animation-duration: 1.5s;
+  animation-iteration-count: infinite ease-in-out;
+}
+
+
+
+.g23{
+
+    transform-origin: center;
+  transform-box:fill-box ; 
+   animation-delay: 4.6s;
+  animation-name: tranfX;
+  animation-fill-mode: both;
+  animation-duration: 1.5s;
+  animation-iteration-count: infinite ease-in-out;
+}
+
+
+
+.g24{
+
+    transform-origin: center;
+  transform-box:fill-box ; 
+   animation-delay: 4.8s;
+  animation-name: tranfX;
+  animation-fill-mode: both;
+  animation-duration: 1.5s;
+  animation-iteration-count: infinite ease-in-out;
+}
+
+
+.g25{
+
+    transform-origin: center;
+  transform-box:fill-box ; 
+   animation-delay: 5s;
+  animation-name: tranfX;
+  animation-fill-mode: both;
+  animation-duration: 1.5s;
+  animation-iteration-count: infinite ease-in-out;
+}
+
+
+
+.g26{
+
+    transform-origin: center;
+  transform-box:fill-box ; 
+   animation-delay: 5.2s;
+  animation-name: tranfX;
+  animation-fill-mode: both;
+  animation-duration: 1.5s;
+  animation-iteration-count: infinite ease-in-out;
+}
+
+
+
+.g27{
+
+    transform-origin: center;
+  transform-box:fill-box ; 
+   animation-delay: 5.4s;
+  animation-name: tranfX;
+  animation-fill-mode: both;
+  animation-duration: 1.5s;
+  animation-iteration-count: infinite ease-in-out;
+}
+
+
+
+
+.g28{
+
+    transform-origin: center;
+  transform-box:fill-box ; 
+   animation-delay: 5.6s;
+  animation-name: tranfX;
+  animation-fill-mode: both;
+  animation-duration: 1.5s;
+  animation-iteration-count: infinite ease-in-out;
+}
+
+
+
+
+.g29{
+
+    transform-origin: center;
+  transform-box:fill-box ; 
+   animation-delay: 5.8s;
+  animation-name: tranfX;
+  animation-fill-mode: both;
+  animation-duration: 1.5s;
+  animation-iteration-count: infinite ease-in-out;
+}
+
+
+
+
+.g30{
+
+    transform-origin: center;
+  transform-box:fill-box ; 
+   animation-delay: 6s;
+  animation-name: tranfX;
+  animation-fill-mode: both;
+  animation-duration: 1.5s;
+  animation-iteration-count: infinite ease-in-out;
+}
+
+
+
+.g31{
+
+    transform-origin: center;
+  transform-box:fill-box ; 
+   animation-delay: 6.2s;
+  animation-name: tranfX;
+  animation-fill-mode: both;
+  animation-duration: 1.5s;
+  animation-iteration-count: infinite ease-in-out;
+}
+
+
+
+
+.g32{
+
+    transform-origin: center;
+  transform-box:fill-box ; 
+   animation-delay: 6.4s;
+  animation-name: tranfX;
+  animation-fill-mode: both;
+  animation-duration: 1.5s;
+  animation-iteration-count: infinite ease-in-out;
+}
+
+
+
+.g33{
+
+    transform-origin: center;
+  transform-box:fill-box ; 
+   animation-delay: 6.6s;
+  animation-name: tranfX;
+  animation-fill-mode: both;
+  animation-duration: 1.5s;
+  animation-iteration-count: infinite ease-in-out;
+}
+
+
+
+
+.g34{
+
+    transform-origin: center;
+  transform-box:fill-box ; 
+   animation-delay: 6.8s;
+  animation-name: tranfX;
+  animation-fill-mode: both;
+  animation-duration: 1.5s;
+  animation-iteration-count: infinite ease-in-out;
+}
+
+
+
+
+.g35{
+
+    transform-origin: center;
+  transform-box:fill-box ; 
+   animation-delay: 7s;
+  animation-name: tranfX;
+  animation-fill-mode: both;
+  animation-duration: 1.5s;
+  animation-iteration-count: infinite ease-in-out;
+}
+
+
+
+
+.g36{
+
+    transform-origin: center;
+  transform-box:fill-box ; 
+   animation-delay: 7.2s;
+  animation-name: tranfX;
+  animation-fill-mode: both;
+  animation-duration: 1.5s;
+  animation-iteration-count: infinite ease-in-out;
+}
+
+
+
+
+.g37{
+
+    transform-origin: center;
+  transform-box:fill-box ; 
+   animation-delay: 7.4s;
+  animation-name: tranfX;
+  animation-fill-mode: both;
+  animation-duration: 1.5s;
+  animation-iteration-count: infinite ease-in-out;
+}
+
+
+
+
+.g38{
+
+    transform-origin: center;
+  transform-box:fill-box ; 
+   animation-delay: 7.6s;
+  animation-name: tranfX;
+  animation-fill-mode: both;
+  animation-duration: 1.5s;
+  animation-iteration-count: infinite ease-in-out;
+}
+
+
+
+
+.g39{
+
+    transform-origin: center;
+  transform-box:fill-box ; 
+   animation-delay:7.8s;
+  animation-name: tranfX;
+  animation-fill-mode: both;
+  animation-duration: 1.5s;
+  animation-iteration-count: infinite ease-in-out;
+}
+
+
+
+
+.g40{
+
+    transform-origin: center;
+  transform-box:fill-box ; 
+   animation-delay: 8s;
+  animation-name: tranfX;
+  animation-fill-mode: both;
+  animation-duration: 1.5s;
+  animation-iteration-count: infinite ease-in-out;
+}
+
+
+
+
+.g41{
+
+    transform-origin: center;
+  transform-box:fill-box ; 
+   animation-delay: 8.2s;
+  animation-name: tranfX;
+  animation-fill-mode: both;
+  animation-duration: 1.5s;
+  animation-iteration-count: infinite ease-in-out;
+}
+
+
+
+
+.g42{
+
+    transform-origin: center;
+  transform-box:fill-box ; 
+   animation-delay: 8.4s;
+  animation-name: tranfX;
+  animation-fill-mode: both;
+  animation-duration: 1.5s;
+  animation-iteration-count: infinite ease-in-out;
+}
+
+
+.g43{
+
+    transform-origin: center;
+  transform-box:fill-box ; 
+   animation-delay: 8.6s;
+  animation-name: tranfX;
+  animation-fill-mode: both;
+  animation-duration: 1.5s;
+  animation-iteration-count: infinite ease-in-out;
+}
+
+
+
+.g44{
+
+    transform-origin: center;
+  transform-box:fill-box ; 
+   animation-delay: 8.8s;
+  animation-name: tranfX;
+  animation-fill-mode: both;
+  animation-duration: 1.5s;
+  animation-iteration-count: infinite ease-in-out;
+}
+
+
+
+.g45{
+
+    transform-origin: center;
+  transform-box:fill-box ; 
+   animation-delay: 9s;
+  animation-name: tranfX;
+  animation-fill-mode: both;
+  animation-duration: 1.5s;
+  animation-iteration-count: infinite ease-in-out;
+}
+
+
+
+
+
+
+@keyframes tranfX {
+	0% {  
+      transform: scale(1) rotate(0deg);
+
+ }
+	50% {  
+     transform: scale(.1) rotate(0deg);
+ }
+	100% {  
+       transform: scale(1) rotate(0deg);
+ }
+}
+
+</style>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_186" data-name="Rectangle 186" width="542" height="133" transform="translate(631)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_54" data-name="Rectangle 54" width="552" height="470.163" fill="#76dcd2"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_5" data-name="Mask Group 5" transform="translate(-631)" clip-path="url(#clip-path)">
+    <g id="lines_vector" data-name="lines vector" transform="translate(692 -317.571)">
+      <g id="Group_88" data-name="Group 88" transform="translate(-71 -20)" clip-path="url(#clip-path-2)">
+      <g class="g1"> 
+        <path id="Path_545" data-name="Path 545" d="M614.983,329.263l-1.222.391a1.681,1.681,0,0,0-1.093,2.1l21.148,67.892a1.653,1.653,0,0,0,2.085,1.085l1.221-.388a1.683,1.683,0,0,0,1.093-2.1l-21.147-67.892a1.654,1.654,0,0,0-2.085-1.086" transform="translate(-86.291 -46.37)" fill="#76dcd2"/>
+      </g>
+      <g class="g2">
+        <path id="Path_546" data-name="Path 546" d="M537.257,76.1l-.766,1.469a1.636,1.636,0,0,1-.928.8,1.683,1.683,0,0,0-1.07,2.092l14.357,46.117a1.655,1.655,0,0,0,2.085,1.086l1.221-.39a1.684,1.684,0,0,0,1.093-2.1L538.122,76.578Z" transform="translate(-75.28 -10.72)" fill="#76dcd2"/>
+      </g>
+       
+
+       <g class="g2">
+        <path id="Path_547" data-name="Path 547" d="M512.355,44.981l-1.221.39a1.682,1.682,0,0,0-1.094,2.1L615.847,387.155a1.654,1.654,0,0,0,2.085,1.084l1.221-.39a1.682,1.682,0,0,0,1.094-2.1L514.44,46.066a1.654,1.654,0,0,0-2.085-1.085" transform="translate(-71.835 -6.325)" fill="#76dcd2"/>
+       </g>
+
+
+       <g class="g3"> 
+        <path id="Path_548" data-name="Path 548" d="M493.131,28.461l-1.221.391a1.681,1.681,0,0,0-1.094,2.1L607,403.942a1.653,1.653,0,0,0,2.084,1.087l1.222-.391a1.682,1.682,0,0,0,1.093-2.1L495.216,29.546a1.655,1.655,0,0,0-2.085-1.085" transform="translate(-69.127 -3.998)" fill="#76dcd2"/>
+       </g>
+
+       <g class="g4"> 
+        <path id="Path_549" data-name="Path 549" d="M475.654,17.55l-1.221.39a1.683,1.683,0,0,0-1.094,2.1L597.13,417.453a1.654,1.654,0,0,0,2.085,1.085l1.221-.39a1.684,1.684,0,0,0,1.094-2.1L477.739,18.635a1.654,1.654,0,0,0-2.085-1.085" transform="translate(-66.665 -2.461)" fill="#76dcd2"/>
+       
+       </g>
+
+       <g class="g5"> 
+        <path id="Path_550" data-name="Path 550" d="M459.208,9.942l-1.221.39a1.682,1.682,0,0,0-1.094,2.1l129.69,416.359a1.654,1.654,0,0,0,2.085,1.085l1.222-.39a1.681,1.681,0,0,0,1.093-2.1L461.293,11.027a1.655,1.655,0,0,0-2.085-1.085" transform="translate(-64.349 -1.389)" fill="#76dcd2"/>
+       </g>
+
+       <g class="g6"> 
+        <path id="Path_551" data-name="Path 551" d="M443.5,4.712l-1.221.39a1.682,1.682,0,0,0-1.094,2.1L575.537,438.516a1.654,1.654,0,0,0,2.085,1.084l1.221-.389a1.682,1.682,0,0,0,1.094-2.1L445.587,5.8A1.655,1.655,0,0,0,443.5,4.712" transform="translate(-62.136 -0.653)" fill="#76dcd2"/>
+       </g>
+
+       <g class="g7"> 
+        <path id="Path_552" data-name="Path 552" d="M428.41,1.461l-1.221.39a1.683,1.683,0,0,0-1.094,2.1L564.079,446.93a1.653,1.653,0,0,0,2.084,1.085l1.221-.389a1.684,1.684,0,0,0,1.095-2.1L430.5,2.546a1.654,1.654,0,0,0-2.085-1.085" transform="translate(-60.01 -0.195)" fill="#76dcd2"/>
+       </g>
+
+       <g class="g8">  
+        <path id="Path_553" data-name="Path 553" d="M413.9.079l-1.221.389a1.683,1.683,0,0,0-1.094,2.1L552.273,454.217a1.653,1.653,0,0,0,2.084,1.086l1.222-.39a1.681,1.681,0,0,0,1.093-2.1L415.988,1.164A1.654,1.654,0,0,0,413.9.079" transform="translate(-57.967 0)" fill="#76dcd2"/>
+       </g>
+
+       <g class="g9"> 
+        <path id="Path_554" data-name="Path 554" d="M399.993.681l-1.221.39a1.682,1.682,0,0,0-1.094,2.1l142.4,457.154a1.654,1.654,0,0,0,2.085,1.086l1.221-.389a1.684,1.684,0,0,0,1.094-2.1L402.078,1.767A1.654,1.654,0,0,0,399.993.681" transform="translate(-56.007 -0.085)" fill="#76dcd2"/>
+       </g>
+
+       <g class="g10"> 
+        <path id="Path_555" data-name="Path 555" d="M386.56,2.749l-1.221.39a1.682,1.682,0,0,0-1.094,2.1l143.229,459.82a1.653,1.653,0,0,0,2.084,1.086l1.221-.39a1.683,1.683,0,0,0,1.094-2.1L388.645,3.834a1.653,1.653,0,0,0-2.085-1.085" transform="translate(-54.115 -0.376)" fill="#76dcd2"/>
+       </g>
+
+       <g class="g11">
+        <path id="Path_556" data-name="Path 556" d="M373.533,6.123l-1.221.39a1.681,1.681,0,0,0-1.093,2.1L514.457,468.464a1.655,1.655,0,0,0,2.085,1.085l1.222-.39a1.682,1.682,0,0,0,1.093-2.1L375.618,7.208a1.654,1.654,0,0,0-2.085-1.085" transform="translate(-52.28 -0.851)" fill="#76dcd2"/>
+       </g>
+
+       <g class="g12"> 
+        <path id="Path_557" data-name="Path 557" d="M360.936,10.876l-1.221.39a1.682,1.682,0,0,0-1.094,2.1l142.4,457.154a1.654,1.654,0,0,0,2.086,1.084l1.22-.388a1.684,1.684,0,0,0,1.094-2.1L363.021,11.961a1.654,1.654,0,0,0-2.085-1.085" transform="translate(-50.506 -1.521)" fill="#76dcd2"/>
+       </g>
+
+       <g class="g13">
+        <path id="Path_558" data-name="Path 558" d="M348.791,17.081l-1.221.389a1.684,1.684,0,0,0-1.093,2.1L487.166,471.236a1.655,1.655,0,0,0,2.084,1.086l1.222-.391a1.682,1.682,0,0,0,1.094-2.1L350.876,18.166a1.653,1.653,0,0,0-2.085-1.085" transform="translate(-48.795 -2.395)" fill="#76dcd2"/>
+       </g>
+
+       <g class="g14"> 
+        <path id="Path_559" data-name="Path 559" d="M337.105,24.756l-1.221.39a1.682,1.682,0,0,0-1.094,2.1L472.885,470.583a1.655,1.655,0,0,0,2.086,1.085l1.221-.389a1.683,1.683,0,0,0,1.093-2.1L339.19,25.841a1.654,1.654,0,0,0-2.085-1.085" transform="translate(-47.149 -3.476)" fill="#76dcd2"/>
+       </g>
+
+        <g class="g15">
+          <path id="Path_560" data-name="Path 560" d="M325.837,33.774l-1.221.391a1.681,1.681,0,0,0-1.094,2.1L458.154,468.483a1.655,1.655,0,0,0,2.085,1.086l1.222-.39a1.682,1.682,0,0,0,1.093-2.1L327.922,34.859a1.655,1.655,0,0,0-2.085-1.085" transform="translate(-45.562 -4.746)" fill="#76dcd2"/>
+        </g> 
+
+
+        <g class="g16"> 
+        <path id="Path_561" data-name="Path 561" d="M314.953,44.028l-1.221.39a1.682,1.682,0,0,0-1.094,2.1L442.946,464.858a1.654,1.654,0,0,0,2.085,1.085l1.221-.389a1.685,1.685,0,0,0,1.095-2.1L317.038,45.113a1.654,1.654,0,0,0-2.085-1.085" transform="translate(-44.028 -6.191)" fill="#76dcd2"/>
+        </g>
+
+        <g class="g17"> 
+                <path id="Path_562" data-name="Path 562" d="M304.4,55.334l-1.221.39a1.681,1.681,0,0,0-1.093,2.1L427.218,459.556a1.655,1.655,0,0,0,2.085,1.086l1.221-.39a1.684,1.684,0,0,0,1.094-2.1L306.482,56.419a1.655,1.655,0,0,0-2.085-1.085" transform="translate(-42.542 -7.783)" fill="#76dcd2"/>
+        </g>
+
+        <g class="g18">
+          <path id="Path_563" data-name="Path 563" d="M294.1,67.5l-1.221.39a1.682,1.682,0,0,0-1.094,2.1L410.854,452.25a1.654,1.654,0,0,0,2.085,1.085l1.222-.39a1.684,1.684,0,0,0,1.093-2.1L296.185,68.589A1.654,1.654,0,0,0,294.1,67.5" transform="translate(-41.091 -9.498)" fill="#76dcd2"/>
+        </g>
+
+        <g class="g19">
+          <path id="Path_564" data-name="Path 564" d="M284.014,80.347l-1.221.39a1.682,1.682,0,0,0-1.094,2.1L394.172,443.914A1.653,1.653,0,0,0,396.256,445l1.221-.39a1.682,1.682,0,0,0,1.094-2.1L286.1,81.432a1.654,1.654,0,0,0-2.085-1.085" transform="translate(-39.67 -11.307)" fill="#76dcd2"/>
+        </g>
+
+        <g class="g20">
+          <path id="Path_565" data-name="Path 565" d="M273.786,92.706l-1.221.39a1.682,1.682,0,0,0-1.094,2.1L377.687,436.188a1.652,1.652,0,0,0,2.085,1.086l1.221-.39a1.682,1.682,0,0,0,1.093-2.1L275.871,93.791a1.654,1.654,0,0,0-2.085-1.085" transform="translate(-38.23 -13.048)" fill="#76dcd2"/>
+        </g>
+
+        <g class="g21">
+          <path id="Path_566" data-name="Path 566" d="M263.071,103.5l-1.221.39a1.683,1.683,0,0,0-1.094,2.1l100.828,323.7a1.656,1.656,0,0,0,2.086,1.085l1.221-.39a1.683,1.683,0,0,0,1.094-2.1l-100.829-323.7a1.654,1.654,0,0,0-2.085-1.086" transform="translate(-36.72 -14.568)" fill="#76dcd2"/>
+        </g>
+
+        <g class="g22">
+          <path id="Path_567" data-name="Path 567" d="M251.983,113.1l-1.221.388a1.686,1.686,0,0,0-1.094,2.1l96.308,309.181a1.655,1.655,0,0,0,2.084,1.086l1.222-.391a1.685,1.685,0,0,0,1.094-2.1L254.068,114.188a1.654,1.654,0,0,0-2.085-1.085" transform="translate(-35.158 -15.921)" fill="#76dcd2"/>
+        </g>
+
+        <g class="g23"> 
+          <path id="Path_568" data-name="Path 568" d="M240.568,121.65l-1.22.388a1.683,1.683,0,0,0-1.094,2.1L330.879,421.5a1.654,1.654,0,0,0,2.085,1.086l1.221-.39a1.683,1.683,0,0,0,1.094-2.1l-92.624-297.36a1.656,1.656,0,0,0-2.086-1.084" transform="translate(-33.55 -17.125)" fill="#76dcd2"/>
+        </g>
+
+        <g class="g24"> 
+          <path id="Path_569" data-name="Path 569" d="M228.881,129.325l-1.221.39a1.68,1.68,0,0,0-1.092,2.1L316.3,419.881a1.654,1.654,0,0,0,2.084,1.086l1.222-.39a1.683,1.683,0,0,0,1.094-2.1L230.967,130.41a1.656,1.656,0,0,0-2.086-1.085" transform="translate(-31.904 -18.206)" fill="#76dcd2"/>
+        </g> 
+
+        <g class="g25">
+          <path id="Path_570" data-name="Path 570" d="M216.946,136.2l-1.221.39a1.681,1.681,0,0,0-1.093,2.1l87.582,281.174a1.653,1.653,0,0,0,2.084,1.086l1.221-.39a1.684,1.684,0,0,0,1.094-2.1L219.031,137.287a1.654,1.654,0,0,0-2.085-1.085" transform="translate(-30.223 -19.175)" fill="#76dcd2"/>
+        </g>
+
+        <g class="g26">
+          <path id="Path_571" data-name="Path 571" d="M204.791,142.371l-1.221.389a1.684,1.684,0,0,0-1.094,2.1L288.6,421.34a1.653,1.653,0,0,0,2.085,1.086l1.221-.389a1.684,1.684,0,0,0,1.094-2.1l-86.121-276.48a1.654,1.654,0,0,0-2.085-1.085" transform="translate(-28.511 -20.044)" fill="#76dcd2"/>
+        </g>
+
+        <g class="g27"> 
+          <path id="Path_572" data-name="Path 572" d="M192.432,147.886l-1.222.391a1.682,1.682,0,0,0-1.093,2.1l85.314,273.891a1.654,1.654,0,0,0,2.085,1.086l1.221-.391a1.683,1.683,0,0,0,1.094-2.1L194.517,148.972a1.653,1.653,0,0,0-2.085-1.086" transform="translate(-26.77 -20.82)" fill="#76dcd2"/>
+        </g> 
+
+        <g class="g28"> 
+          <path id="Path_573" data-name="Path 573" d="M179.85,152.754l-1.221.39a1.682,1.682,0,0,0-1.094,2.1l85.12,273.268a1.652,1.652,0,0,0,2.085,1.086l1.222-.39a1.681,1.681,0,0,0,1.092-2.1L181.935,153.84a1.654,1.654,0,0,0-2.085-1.086" transform="translate(-24.997 -21.506)" fill="#76dcd2"/>
+        </g>
+
+        <g class="g29"> 
+          <path id="Path_574" data-name="Path 574" d="M167.084,156.964l-1.221.388a1.684,1.684,0,0,0-1.094,2.1L250.287,434a1.655,1.655,0,0,0,2.085,1.084l1.221-.388a1.683,1.683,0,0,0,1.093-2.1L169.169,158.048a1.653,1.653,0,0,0-2.085-1.084" transform="translate(-23.199 -22.099)" fill="#76dcd2"/>
+        </g>
+
+        <g class="g30"> 
+          <path id="Path_575" data-name="Path 575" d="M154.074,160.391l-1.221.389a1.684,1.684,0,0,0-1.094,2.1l86.287,277.01a1.653,1.653,0,0,0,2.084,1.086l1.222-.39a1.682,1.682,0,0,0,1.093-2.1L156.158,161.477a1.652,1.652,0,0,0-2.084-1.086" transform="translate(-21.367 -22.582)" fill="#76dcd2"/>
+        </g>
+
+        <g class="g31"> 
+          <path id="Path_576" data-name="Path 576" d="M141.086,163.892l-1.221.389a1.683,1.683,0,0,0-1.093,2.1l86.8,278.664a1.654,1.654,0,0,0,2.086,1.084l1.221-.389a1.682,1.682,0,0,0,1.093-2.1l-86.8-278.663a1.655,1.655,0,0,0-2.085-1.085" transform="translate(-19.537 -23.075)" fill="#76dcd2"/>
+        </g>
+
+        <g class="g32"> 
+          <path id="Path_577" data-name="Path 577" d="M128.4,168.355l-1.221.388a1.684,1.684,0,0,0-1.094,2.1L212.9,449.554a1.652,1.652,0,0,0,2.084,1.086l1.222-.391a1.683,1.683,0,0,0,1.094-2.1l-86.817-278.71a1.654,1.654,0,0,0-2.085-1.084" transform="translate(-17.75 -23.704)" fill="#76dcd2"/>
+        </g>
+
+        <g class="g33"> 
+          <path id="Path_578" data-name="Path 578" d="M115.938,173.543l-1.222.391a1.682,1.682,0,0,0-1.093,2.1l87.153,279.8.845.44.765-1.461a1.634,1.634,0,0,1,.951-.8l0,0a1.639,1.639,0,0,0,1.065-2.046L118.023,174.629a1.655,1.655,0,0,0-2.085-1.086" transform="translate(-15.995 -24.435)" fill="#76dcd2"/>
+        </g>
+
+
+
+        <g class="g34"> 
+          <path id="Path_579" data-name="Path 579" d="M103.7,179.457l-1.222.391a1.683,1.683,0,0,0-1.093,2.1l85.47,274.39a1.655,1.655,0,0,0,2.085,1.086l1.221-.39a1.683,1.683,0,0,0,1.094-2.1l-85.47-274.39a1.655,1.655,0,0,0-2.085-1.086" transform="translate(-14.271 -25.268)" fill="#76dcd2"/>
+        </g>
+
+
+        <g class="g35"> 
+          <path id="Path_580" data-name="Path 580" d="M91.688,186.08l-1.221.39a1.683,1.683,0,0,0-1.094,2.1l84.091,269.962a1.653,1.653,0,0,0,2.084,1.085l1.221-.389a1.685,1.685,0,0,0,1.095-2.1L93.773,187.166a1.655,1.655,0,0,0-2.085-1.086" transform="translate(-12.579 -26.201)" fill="#76dcd2"/>
+        </g>
+          
+
+        <g class="g36"> 
+          <path id="Path_581" data-name="Path 581" d="M79.923,193.5l-1.221.389a1.684,1.684,0,0,0-1.094,2.1L159.8,459.856a1.654,1.654,0,0,0,2.085,1.086l1.221-.39a1.682,1.682,0,0,0,1.093-2.1L82.008,194.586a1.655,1.655,0,0,0-2.085-1.084" transform="translate(-10.921 -27.246)" fill="#76dcd2"/>
+        </g>
+
+        <g class="g37"> 
+          <path id="Path_582" data-name="Path 582" d="M68.433,201.843l-1.221.39a1.681,1.681,0,0,0-1.093,2.1l79.7,255.88a1.653,1.653,0,0,0,2.085,1.085l1.221-.389a1.683,1.683,0,0,0,1.093-2.1l-79.7-255.88a1.655,1.655,0,0,0-2.085-1.085" transform="translate(-9.303 -28.421)" fill="#76dcd2"/>
+        </g>
+
+        <g class="g38"> 
+          <path id="Path_583" data-name="Path 583" d="M57.26,211.2l-1.221.39a1.681,1.681,0,0,0-1.093,2.1l76.575,245.839a1.654,1.654,0,0,0,2.086,1.083l1.22-.388a1.683,1.683,0,0,0,1.094-2.1L59.345,212.287A1.654,1.654,0,0,0,57.26,211.2" transform="translate(-7.729 -29.739)" fill="#76dcd2"/>
+        </g>
+        
+        <g class="g39"> 
+          <path id="Path_584" data-name="Path 584" d="M46.49,221.817l-1.221.389a1.683,1.683,0,0,0-1.094,2.1l72.68,233.331a1.654,1.654,0,0,0,2.085,1.086l1.221-.39a1.682,1.682,0,0,0,1.093-2.1L48.575,222.9a1.653,1.653,0,0,0-2.085-1.085" transform="translate(-6.212 -31.235)" fill="#76dcd2"/>
+        </g>
+
+        <g class="g40"> 
+          <path id="Path_585" data-name="Path 585" d="M36.194,233.957l-1.221.389a1.684,1.684,0,0,0-1.094,2.1l67.876,217.908a1.653,1.653,0,0,0,2.084,1.084l1.221-.388a1.682,1.682,0,0,0,1.094-2.1L38.28,235.042a1.656,1.656,0,0,0-2.086-1.085" transform="translate(-4.762 -32.945)" fill="#76dcd2"/>
+        </g>
+
+        <g class="g41"> 
+          <path id="Path_586" data-name="Path 586" d="M26.542,248.167l-1.221.39a1.682,1.682,0,0,0-1.094,2.1l61.892,198.7a1.654,1.654,0,0,0,2.084,1.086l1.221-.39a1.682,1.682,0,0,0,1.094-2.1l-61.891-198.7a1.654,1.654,0,0,0-2.085-1.085" transform="translate(-3.402 -34.946)" fill="#76dcd2"/>
+        </g>
+
+        <g class="g42">
+          <path id="Path_587" data-name="Path 587" d="M17.779,265.226l-1.221.39a1.683,1.683,0,0,0-1.094,2.1l54.324,174.4a1.654,1.654,0,0,0,2.085,1.086l1.221-.39a1.681,1.681,0,0,0,1.093-2.1l-54.323-174.4a1.655,1.655,0,0,0-2.085-1.086" transform="translate(-2.168 -37.349)" fill="#76dcd2"/>
+        </g>
+        
+        <g class="g43"> 
+          <path id="Path_588" data-name="Path 588" d="M10.452,286.9l-1.221.389a1.684,1.684,0,0,0-1.093,2.1L52.422,431.553a1.653,1.653,0,0,0,2.084,1.086l1.222-.391a1.681,1.681,0,0,0,1.093-2.1L12.537,287.982a1.654,1.654,0,0,0-2.085-1.086" transform="translate(-1.136 -40.402)" fill="#76dcd2"/>
+        </g>
+
+        <g class="g44">
+        <path id="Path_589" data-name="Path 589" d="M6.037,317.913l-1.221.39a1.683,1.683,0,0,0-1.094,2.1L33.04,414.525a1.652,1.652,0,0,0,2.085,1.086l1.221-.39a1.682,1.682,0,0,0,1.093-2.1L8.122,319a1.654,1.654,0,0,0-2.085-1.086" transform="translate(-0.514 -44.771)" fill="#76dcd2"/>
+        </g>
+
+        <g class="g45"> 
+          <path id="Path_590" data-name="Path 590" d="M2.388,351.416l-1.22.39a1.683,1.683,0,0,0-1.092,2.1L14.84,401.264a1.653,1.653,0,0,0,2.086,1.084l1.22-.389a1.683,1.683,0,0,0,1.092-2.1L4.474,352.5a1.655,1.655,0,0,0-2.086-1.085" transform="translate(0 -49.49)" fill="#76dcd2"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,66 @@
+<?php
+
+namespace {{ namespace }};
+
+use {{ rootNamespace }}Http\Controllers\Controller;
+use Illuminate\Http\Request;
+
+class {{ class }} extends Controller
+{
+
+    public function __construct()
+    {
+
+    }
+    public function index()
+    {
+
+        return view('dashboard.backend.admins.index' , compact(''));
+    }
+
+
+    public function create()
+    {
+         return view('dashboard.backend.admins.create');
+    }
+
+
+    public function store(Request $request)
+    {
+       $data = $request->except('');
+
+      return redirect(route('admin.admins.index'))->with('success', __('models.added_successfully'));
+
+
+    }
+
+
+    public function show($id)
+    {
+        //
+    }
+
+
+    public function edit($id)
+    {
+         return view('dashboard.backend.admins.edit' , compact(''));
+    }
+
+
+    public function update(Request $request, $id)
+    {
+
+       $data = $request->except('');
+        return redirect(route('admin.admins.index'))->with('success', __('models.added_successfully'));
+
+    }
+
+
+    public function destroy($id)
+    {
+
+        return \response()->json([
+            'message' => __('models.deleted_successfully')
+        ]);
+    }
+}

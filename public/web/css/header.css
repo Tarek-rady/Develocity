@@ -1,0 +1,250 @@
+.header {
+    padding: 15px 0 0;
+    position: relative;
+    margin-bottom: 70px;
+}
+
+.logo {
+    max-width: 210px;
+}
+.logo img {
+    max-width: 100%;
+    user-select: none;
+}
+
+.icons-top-par {
+    text-align: end;
+}
+
+.icons-top-par ul {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+
+ .icons-top-par ul li{
+    width: 50px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 22px;
+    color: #0066B1;
+    border-radius: 50%;
+    cursor: pointer;
+    border: 1px solid #0066B1;
+}
+
+.icons-top-par ul li a {
+    color: #0066B1;
+
+}
+
+.button_su {
+    overflow: hidden;
+    position: relative;
+    display: inline-block;
+    border-radius: 25px;
+    margin-bottom: 30px;
+    width: 250px;
+}
+.button_su a {
+    color: #fff !important;
+}
+.su_button_circle {
+    background-color: red;
+    border-radius: 1000px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 0;
+    height: 0;
+    margin-left: 0;
+    margin-top: 0;
+    pointer-events: none;
+    /*animation-timing-function: ease-in-out; */
+}
+.button_su_inner {
+    display: inline-block;
+    background: #0066B1;
+    color: #fff;
+    font-size: 16px;
+    font-weight: normal;
+    width: 100%;
+    height: 50px;
+    user-select: none;
+    border: none;
+    border-radius: 25px;
+    text-align: center;
+    transition: 400ms;
+    text-decoration: none;
+    padding: 0;
+    z-index: 100000;
+}
+
+.button_text_container {
+    position: relative;
+    z-index: 10000;
+}
+
+.explode-circle {
+    animation: explode 0.5s forwards;
+
+}
+
+.desplode-circle {
+    animation: desplode 0.5s forwards;
+}
+
+@keyframes explode {
+    0% {
+        width: 0;
+        height: 0;
+        margin-left: 0;
+        margin-top: 0;
+        background-color: #089EDA;
+
+    }
+    100% {
+        width: 550px;
+        height: 550px;
+        margin-left: -265px;
+        margin-top: -200px;
+        background-color: #FFB127;
+    }
+}
+
+@keyframes desplode {
+    0% {
+        width: 550px;
+        height: 550px;
+        margin-left: -265px;
+        margin-top: -200px;
+        background-color: rgba(20, 180, 87, 0.8);
+    }
+    100% {
+        width: 0;
+        height: 0;
+        margin-left: 0;
+        margin-top: 0;
+        background-color: #D8FFEF;
+    }
+}
+
+
+
+.text-sub-header {
+    width: 47%;
+    margin-top: 20px;
+}
+.sub-header {
+    background-size: cover;
+    border-radius: 20px;
+    height: 450px;
+    background-repeat: no-repeat;
+    display: flex;
+    margin-top: 80px;
+    background-attachment: fixed;
+    align-items: center;
+    position: relative;
+}
+
+
+.text-sub-header{
+    padding-top: 50px;
+}
+
+
+.text-sub-header h2 {
+    font-size: 25px;
+    color: #0066B1;
+    font-family: "font_bold";
+}
+
+.text-sub-header h4 {
+    margin: 20px 0;
+    font-size: 25px;
+    color: #089EDA;
+    font-family: "font_bold";
+
+}
+
+.text-sub-header p {
+    margin-bottom: 20px ;
+}
+
+.img-sub-header {
+    width: 100%;
+    display: flex;
+    margin-top: -65px ;
+    align-items: center;
+    justify-content: left;
+}
+
+.img-sub-header > img {
+    max-width: 74%;
+}
+
+
+
+
+
+
+.btn-time-work a {
+    color: #1ABEF0;
+    width: 195px;
+    display: flex;
+    align-items: center;
+    height: 45px;
+    align-items: center;
+    margin: 10px auto 20px;
+    justify-content: center;
+    display: flex;
+    justify-self: center;
+    border-radius: 45px;
+    transition: all .5s linear;
+    background-color: #EAF4FC;
+}
+
+
+.btn-time-work a:hover{
+    background-color: #0066B1;
+    color: #fff;
+}
+
+.title-user  {
+    margin: 20px 0px ;
+    text-align: center;
+}
+
+
+.element-ne {
+    background-image: linear-gradient(to bottom ,#0E7BCB , #0B436D);
+    width: 90%;
+    border-radius: 10px;
+    position: absolute;
+    height: 80px;
+    z-index: 94;
+    top: -88px;
+    left: 0px;
+    right: 0px;
+    margin: auto;
+}
+.element-ne ul{
+    display: flex;
+    height: 80px;
+    align-items: center;
+    gap: 40px ;
+    justify-content: center;
+}
+.element-ne ul li{
+    display: block;
+}
+.element-ne ul li a{
+    color: #fff;
+}
+
+.element-ne ul li a:hover{
+    color: #FFB127;
+}
